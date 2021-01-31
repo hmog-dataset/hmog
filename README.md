@@ -18,11 +18,13 @@ The dataset can be downloaded from the following link. You agree to the [Terms o
 
 | File | MD5 |
 | --- | --- |
-| [hmog_dataset.zip]() | 4fd46756abec13815f426c66a58e626f |
+| [hmog_dataset.zip](https://wm1693.box.com/s/jkjodaw2scunua7b7qaxt3ker5w9lwt7) | 4fd46756abec13815f426c66a58e626f |
 
 ## Terms of Use for H-MOG Dataset
 You need to read and agree to the following Terms of Use to download and use the H-MOG dataset.
 
+>Terms of Use for H-MOG Dataset
+>
 >`1. Definitions`
 >
 >The following terms, unless the context requires otherwise, have the following meanings:
