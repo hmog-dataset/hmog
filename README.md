@@ -11,7 +11,7 @@ A data collection tool for Android phones was developed to record real-time touc
 > Qing Yang, Ge Peng, David T. Nguyen, Xin Qi, Gang Zhou, Zdeňka Sitová, Paolo Gasti, and Kiran S. Balagani. **A Multimodal Data Set for Evaluating Continuous Authentication Performance in Smartphones**. In Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems (SenSys '14). ACM, New York, NY, USA, 358-359.  DOI: [10.1145/2668332.2668366](https://doi.org/10.1145/2668332.2668366)
 
 Readers can also check our research work `HMOG: New Behavioral Biometric Features for Continuous Authentication of Smartphone Users`.
-> Zdeňka Sitová, Jaroslav Šeděnka, Qing Yang, Ge Peng, Gang Zhou, Paolo Gasti, Kiran S. Balagani. **HMOG: New Behavioral Biometric Features for Continuous Authentication of Smartphone Users**. In IEEE Transactions on Information Forensics and Security, vol.PP, no.99, pp.1-1.  DOI: [10.1109/TIFS.2015.2506542](https://doi.org/10.1109/TIFS.2015.2506542)
+> Zdeňka Sitová, Jaroslav Šeděnka, Qing Yang, Ge Peng, Gang Zhou, Paolo Gasti, Kiran S. Balagani. **HMOG: New Behavioral Biometric Features for Continuous Authentication of Smartphone Users**. In IEEE Transactions on Information Forensics and Security, vol.11, no.5, pp.877-892, May 2016.  DOI: [10.1109/TIFS.2015.2506542](https://doi.org/10.1109/TIFS.2015.2506542)
 
 ## Files
 The dataset can be downloaded from the following link. You agree to the [Terms of Use for H-MOG Dataset](#terms-of-use-for-h-mog-dataset) to download and use the files.
