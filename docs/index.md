@@ -1,4 +1,4 @@
-This repo contains dataset files for `A Multimodal Data Set for Evaluating Continuous Authentication Performance in Smartphones`.
+This website contains dataset files for `A Multimodal Data Set for Evaluating Continuous Authentication Performance in Smartphones`.
 
 ## Introduction
 We performed a large-scale user study to collect a wide spectrum of signals about user behaviors on smartphones, including touch, gesture, and pausality of the user, as well as movement and orientation of the phone. This dataset has been used to evaluate a continuous authentication modality named H-MOG in smartphones.
